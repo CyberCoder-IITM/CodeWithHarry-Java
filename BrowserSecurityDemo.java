@@ -112,6 +112,7 @@ class SimpleBloomFilter {
      */
     private int getHash(String item, int seed) {
         int hashCode = Objects.hash(item, seed);
+        // We use modulo to map the hash code to a valid index in our bit set.
         return Math.abs(hashCode) % bitSetSize;
     }
 }
