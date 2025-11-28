@@ -1,6 +1,4 @@
-public class FloydWarshallAlgorithm {
-    
-}
+
 public class FloydWarshallAlgorithm {
     // A large number representing infinity.
     // We use a safe value to prevent overflow when adding two "infinite" paths.
