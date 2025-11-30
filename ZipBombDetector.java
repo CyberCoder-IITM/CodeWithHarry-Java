@@ -5,6 +5,8 @@ import java.util.Scanner;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipFile;
 
+//Insights
+
 /**
  * ZipBombDetector - A Defensive Security Utility.
  * * CONCEPT:
