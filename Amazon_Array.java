@@ -12,3 +12,4 @@ public class Amazon_Array {
         }
     }
 }
+//This java program finds and prints the duplicate elements within the integer array 'arr'. It uses nested loops to compare each element with the subsequent elements in the array. When a duplicate is found, it prints the duplicate value to the console.
